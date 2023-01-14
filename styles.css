@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;700&family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    margin:15px;
+}
+
+.myphoto{
+    width:30%;
+}
+
+.card{
+    background:#7D8F69;
+    width:700px;
+    padding:30px;
+    display:flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-bottom: 6px solid #A9AF7E;
+    color:#000000;
+    font-style: bold;
+    font-family:fredoka one;
+}
+
+.characterswithdifferentfont{
+    font-family: poppins;
+}
